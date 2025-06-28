@@ -80,21 +80,10 @@ Hyperparameter tuning was performed using `GridSearchCV`.
 
 ---
 
-## 📘 Report
-
-A detailed LaTeX report is included in `/report/`:
-- Executive Summary
-- EDA Visualizations
-- Feature Engineering
-- Model Evaluation
-- Conclusion & Future Scope
-
----
-
 ## 🙌 Author
 
 **Praveen Agrawal**  
-MSc Data Science – IIT Guwahati  
+MSc Data Science – IIIT Lucknow 
 📅 June 2025
 
 ---
